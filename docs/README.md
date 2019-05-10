@@ -1,1 +1,1 @@
-# physical commonsense\n\nPlaceholder project page
+Project details coming soon!
