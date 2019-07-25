@@ -1,3 +1,94 @@
-<h1>Do Neural Language Representations Learn Physical Commonsense?</h1>
+<!DOCTYPE html>
+<html lang="en">
+    <title>Physical Commonsense @ CogSci19</title>
 
-Project details coming soon!
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css">
+  <link rel="stylesheet" href="main.css">
+
+  <script src="lib/papaparse.min.js"></script>
+  <script src="lib/jquery-3.4.1.min.js"></script>
+  <script src="src/demo.js"></script>
+
+  <body>
+    <article class="pa3 pa5-ns">
+        <h1 class="f3 f2-m f1-l">Do Neural Language Representations Learn Physical Commonsense?</h1>
+
+        <div class="bg-light-gray" style="display: block;">
+            <div class="fl">
+                <canvas class="ma3" id="demoImg"></canvas>
+            </div>
+            <div class="fl">
+                <p class="f4" id="propContent"></p>
+            </div>
+            <div style="clear: both"></div>
+        </div>
+
+        <p class="measure lh-copy f4">
+            Humans understand language based on the rich background knowledge about how
+            the physical world works, which in turn allows us to reason about the
+            physical world through language. In addition to the <span class="b
+            i">properties</span> of objects (e.g., <span class="i">boats require
+            fuel</span>) and their <span class="b i">affordances</span>, i.e., the actions that are
+            applicable to them (e.g., <span class="i">boats can be driven</span>), we can also reason
+            about <span class="b i">if&ndash;then</span> inferences between what properties of objects imply
+            the kind of actions that are applicable to them (e.g., that <span class="i">if we
+            can drive something then it likely requires fuel</span>).
+        </p>
+        <p class="measure lh-copy f4">
+            In this paper, we investigate the extent to which state-of-the-art neural
+            language representations, trained on a vast amount of natural language text,
+            demonstrate physical commonsense reasoning.
+
+            While recent advancements of neural language models have demonstrated strong
+            performance on various types of natural language inference tasks, our study
+            based on a dataset of over 200k newly collected annotations suggests that
+            neural language representations still only learn associations that are
+            explicitly written down.
+        </p>
+
+        <h2 class="f3 mt5">Paper</h2>
+        <a href="https://mindmodeling.org/cogsci2019/papers/0311/0311.pdf">
+            <img src="img/paper-preview.jpg"/>
+        </a>
+
+        <h2 class="f3 mt5">Bibtex</h2>
+        <p class="code pa3 bg-light-gray">
+@article{forbes2019neural,<br />
+&emsp; &emsp; title={Do Neural Language Representations Learn Physical Commonsense?},<br/>
+&emsp; &emsp; author={Forbes, Maxwell and Holtzman, Ari and Choi, Yejin},<br/>
+&emsp; &emsp; year={2019},<br/>
+&emsp; &emsp; journal={Proceedings of the 41st Annual Conference of the Cognitive Science Society},<br/>
+}
+</p>
+
+        <h2 class="f3 mt5">Code and Data</h2>
+        <p class="measure lh-copy f4">Coming soon!</p>
+
+        <h2 class="f3 mt5">Authors</h2>
+
+        <div class="mw4 pa2 ba b--black-40 fl ma2">
+            <a href="http://maxwellforbes.com/">
+                <img src="img/max.png" />
+            </a>
+            <a class="f6 db link dark-blue hover-blue tc" href="http://maxwellforbes.com/">Maxwell Forbes</a>
+        </div>
+
+        <div class="mw4 pa2 ba b--black-40 fl ma2">
+            <a href="https://ari-holtzman.github.io/">
+                <img src="img/ari.png" />
+            </a>
+            <a class="f6 db link dark-blue hover-blue tc" href="https://ari-holtzman.github.io/">Ari Holtzman</a>
+        </div>
+
+        <div class="mw4 pa2 ba b--black-40 fl ma2">
+            <a href="https://homes.cs.washington.edu/~yejin/">
+                <img src="img/yejin.png" />
+            </a>
+            <a class="f6 db link dark-blue hover-blue tc" href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a>
+        </div>
+
+      </article>
+
+  </body>
+</html>
