@@ -1,0 +1,8 @@
+# Ignore heavyweight data directories that we get from curl.
+data/glove/
+data/dep-embs/
+data/elmo/
+
+# Ignore output files.
+data/results/
+runs/

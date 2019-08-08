@@ -1,0 +1,1041 @@
+affordancesNo,affordancesYes,cocoAnnID,cocoImgID,objectHuman,objectUID
+"bother,balloon,shoot","ask,wave,walk",1215737,100510,person,person
+"videotape,grimace,submerge","lean,stand,sit",1584203,100510,chair,chair
+"preach,stitch,block","lean,stand,sit",1594328,100510,chair,chair
+"call,smear,celebrate","bake,work,admire",215456,100510,person,person
+"cheerlead,spread,pinch","ask,talk,admire",217070,100510,person,person
+"pat,clear,hitchhike","nuzzle,admire,brush",56699,100510,horse,horse
+"claw,clap,rehabilitate","autograph,walk,admire",1823260,101780,giraffe,giraffe
+"scrap,bite,wet","walk,apply,admire",1823356,101780,giraffe,giraffe
+"nip,decorate,buy","call,feed,admire",599670,101780,giraffe,giraffe
+"shoot,paint,claw","wheel,walk,feed",599981,101780,giraffe,giraffe
+"recover,tie,plant","turn,bake,cook",1122604,102707,oven,oven
+"twist,videotape,unplug","drink,throw,clean",676264,102707,cup,cup
+"pounce,sweep,hike","empty,rinse,clean",79735,102707,bottle,bottle
+"knead,salute,lather","dry,wash,clean",1134964,104572,sink,sink
+"grill,stumble,sketch","lean,stand,drink",1135042,104572,sink,sink
+"load,bike,erupt","wash,rinse,clean",1136587,104572,sink,sink
+"walk,clench,staple","wash,rinse,clean",1136691,104572,sink,sink
+"arrest,teach,recuperate","poop,stand,sit",1623888,104572,toilet,toilet
+"laugh,urinate,moisturize","applaud,wash,clean",1646325,104572,sink,sink
+"knead,say,hike","spear,taste,eat",1059109,105014,broccoli,broccoli
+"wash,unload,wad","bake,arrange,eat",1560469,105014,broccoli,broccoli
+"spy,wrinkle,race","cook,cry,eat",1563380,105014,carrot,carrot
+"shovel,wash,hoist","wipe,stand,eat",2130446,105014,dining table,dining_table
+"ask,beg,lead","stir,taste,eat",688351,105014,fork,fork
+"hunch,suck,ford","empty,carry,eat",713732,105014,bowl,bowl
+"flip,sprinkle,attach","aim,drive,sit",1192747,105455,car,car
+"fetch,craft,frown","ask,photograph,admire",335171,105455,clock,clock
+"paste,recover,frisk","ask,photograph,admire",337557,105455,clock,clock
+"call,knead,instal","ask,pick,clean",1106399,108026,mouse,mouse
+"snuggle,poke,say","wipe,work,type",1117740,108026,keyboard,keyboard
+"skip,gnaw,spill","talk,wave,walk",458854,108026,person,person
+"stretch,wave,crest","cook,barbecue,clean",1120978,109976,microwave,microwave
+"inject,wash,cry","wipe,cook,clean",1642703,109976,oven,oven
+"wring,train,arrest","bake,cook,clean",1980630,109976,oven,oven
+"mourn,wash,plunge","drink,carry,clean",2093461,109976,bottle,bottle
+"coach,sign,grin","arch,open,check",2094688,109976,bottle,bottle
+"shred,ascend,feed","fill,empty,open",96220,109976,bottle,bottle
+"steer,pay,boat","ascend,ask,aim",96894,109976,bottle,bottle
+"flick,eat,shake","ask,feed,admire",1412121,110211,zebra,zebra
+"videotape,turn,farm","browse,chase,admire",1412251,110211,zebra,zebra
+"drum,recover,rest","ask,restrain,admire",1822511,110211,zebra,zebra
+"tilt,bow,wheel","photograph,walk,admire",589742,110211,zebra,zebra
+"clap,queue,leak","talk,walk,admire",590598,110211,zebra,zebra
+"buy,apprehend,crash","urinate,pee,sit",1092744,111951,toilet,toilet
+"pray,make,din","wipe,lean,clean",1130164,111951,sink,sink
+"recuperate,cover,phone","soak,wash,clean",1130645,111951,sink,sink
+"sign,applaud,rinse","adjust,admire,clean",1668834,111951,vase,vase
+"yawn,bother,jog","unpack,speak,eat",1043315,113589,banana,banana
+"smile,submerge,mow","pick,bite,eat",1047654,113589,apple,apple
+"hike,photograph,bandage","peel,bite,eat",1049193,113589,apple,apple
+"fuel,skate,hoist","weigh,smell,eat",1072345,113589,pizza,pizza
+"uncork,cling,yank","bite,chew,eat",1072662,113589,pizza,pizza
+"examine,descend,misbehave","empty,pick,aim",2108886,113589,bowl,bowl
+"braid,offer,mourn","admire,bite,eat",2218175,113589,sandwich,sandwich
+"offer,spank,lap","work,sit,admire",1204623,119995,person,person
+"perform,strike,plant","talk,yawn,sit",1251248,119995,person,person
+"haul,cover,squint","call,talk,celebrate",2001021,119995,person,person
+"photograph,fix,baptize","arrest,run,sit",2157699,119995,person,person
+"cram,braid,ignore","cheer,applaud,compete",511443,119995,person,person
+"spear,crouch,smell","aim,swing,hit",657937,119995,tennis racket,tennis_racket
+"bandage,sketch,laugh","turn,buy,talk",1637207,123480,cell phone,cell_phone
+"preach,queue,say","adjust,rinse,throw",341816,123480,toothbrush,toothbrush
+"provide,duck,type","brush,put,clean",342738,123480,toothbrush,toothbrush
+"spank,shoot,tap","tune,wink,race",477144,123480,person,person
+"punt,wrinkle,whirl","bike,drive,sit",132335,124277,car,car
+"ail,gather,pay","drive,applaud,admire",1342966,124277,car,car
+"shear,peel,trip","board,work,run",1366652,124277,train,train
+"tug,make,fetch","drive,sell,wash",1372217,124277,truck,truck
+"grimace,assemble,swim","attack,drive,clean",1372916,124277,truck,truck
+"fix,handcuff,skate","collide,aim,applaud",174076,124277,train,train
+"plant,spank,discuss","ask,drive,check",1779363,124277,car,car
+"spill,teach,dock","whistle,videotape,walk",1819806,125072,cow,cow
+"aim,fold,carve","call,talk,check",278044,125072,cow,cow
+"imitate,crest,fish","photograph,talk,admire",278242,125072,cow,cow
+"pray,train,kick","milk,call,walk",72200,125072,cow,cow
+"collide,throw,wag","call,feed,admire",72350,125072,cow,cow
+"scratch,sneeze,leap","call,run,admire",74584,125072,cow,cow
+"clip,drag,reassure","drive,walk,wash",1373834,128051,truck,truck
+"swarm,wrap,suck","drive,lean,sit",1373989,128051,truck,truck
+"cart,work,give","poop,walk,dust",167880,128051,bus,bus
+"shrug,laugh,educate","wipe,open,adjust",2074862,128051,umbrella,umbrella
+"cook,open,sing","ask,stand,admire",1480760,128675,surfboard,surfboard
+"wrinkle,surf,douse","arrest,call,ask",1710792,128675,person,person
+"stumble,braid,sprout","call,swim,help",2160360,128675,person,person
+"slap,stir,boat","swim,wave,admire",452598,128675,person,person
+"massage,catch,clean","wipe,swim,wave",621669,128675,kite,kite
+"give,jump,help","swim,surf,fall",648357,128675,surfboard,surfboard
+"ram,rot,tune","swim,surf,check",648878,128675,surfboard,surfboard
+"signal,exterminate,submerge","wipe,walk,sit",1618750,129062,dining table,dining_table
+"parachute,dust,rinse","drink,sit,eat",1621394,129062,dining table,dining_table
+"cook,pout,light","stand,sit,eat",1965911,129062,dining table,dining_table
+"swing,slice,duck","pay,walk,pull",2173424,129062,parking meter,parking_meter
+"squeeze,floss,glue","walk,sit,admire",281039,129062,umbrella,umbrella
+"retrieve,carry,blossom","work,stand,walk",419439,129062,parking meter,parking_meter
+"phone,salute,plant","talk,walk,race",567373,129062,person,person
+"spy,mold,prick","carve,bite,eat",1062384,130613,carrot,carrot
+"hang,hunt,open","cook,guard,eat",1063057,130613,carrot,carrot
+"squint,arrange,walk","spear,pick,rinse",2102209,130613,fork,fork
+"pounce,pout,vacuum","clear,sit,eat",2131300,130613,dining table,dining_table
+"sow,whip,ram","carve,pick,clean",695332,130613,knife,knife
+"dance,bandage,fish","autograph,aim,applaud",157106,131386,airplane,airplane
+"raft,hurl,perspire","climb,wave,admire",159116,131386,airplane,airplane
+"shake,spray,glue","ask,photograph,admire",161511,131386,airplane,airplane
+"dip,coach,taxi","aim,parachute,admire",161689,131386,airplane,airplane
+"submerge,clip,nuzzle","wave,walk,admire",217399,134856,person,person
+"frown,drag,dip","jog,adjust,push",222576,134856,person,person
+"arch,shrug,stack","ask,race,arrange",253153,134856,person,person
+"duck,weed,twist","scratch,run,admire",274113,134856,horse,horse
+"apprehend,swim,cook","race,run,admire",275139,134856,horse,horse
+"clip,floss,release","arch,run,admire",55603,134856,horse,horse
+"distract,uncork,rehabilitate","unplug,wipe,clean",1128478,135561,toaster,toaster
+"gather,bury,strap","stir,wipe,wash",1901934,135561,bowl,bowl
+"butt,clench,buckle","storm,wipe,clean",1903705,135561,bowl,bowl
+"comb,fling,cough","wash,rinse,clean",1982842,135561,sink,sink
+"plant,hit,brew","wipe,drink,rinse",2100426,135561,cup,cup
+"rock,bathe,slice","ask,drink,open",2182159,135561,bottle,bottle
+"strip,sleep,clip","open,repair,clean",332476,135561,refrigerator,refrigerator
+"tow,submerge,sprout","tune,turn,adjust",334103,135561,clock,clock
+"march,ask,scratch","kick,sit,eat",1090923,138550,dining table,dining_table
+"peel,guard,ail","adjust,check,sit",374914,138550,chair,chair
+"jog,record,rain","wipe,sit,pull",380455,138550,chair,chair
+"pick,pat,heave","write,paint,walk",417376,138550,fire hydrant,fire_hydrant
+"plow,pick,poke","skate,applaud,throw",1844908,139883,frisbee,frisbee
+"unlock,officiate,disembark","pick,aim,throw",603170,139883,frisbee,frisbee
+"exterminate,prick,measure","poke,push,throw",603417,139883,frisbee,frisbee
+"shake,mold,urinate","autograph,bite,push",604670,139883,frisbee,frisbee
+"sniff,tear,shake","adjust,smell,bite",1075422,146489,pizza,pizza
+"uncork,cough,whisk","admire,eat,clean",1091907,146489,dining table,dining_table
+"ford,release,leap","pick,drink,wash",1497192,146489,wine glass,wine_glass
+"bite,provide,spear","call,pick,open",323423,146489,cell phone,cell_phone
+"juggle,bake,plummet","drink,celebrate,pour",661669,146489,wine glass,wine_glass
+"lap,glare,sign","break,drink,clean",86514,146489,bottle,bottle
+"star,rest,pout","break,drive,clean",2039736,146498,car,car
+"taste,disembark,steer","drive,race,wash",2044849,146498,car,car
+"heave,whistle,signal","drive,walk,run",2045032,146498,car,car
+"apply,commute,plummet","drive,walk,admire",2045928,146498,car,car
+"laugh,brush,giggle","photograph,drive,wash",2046535,146498,car,car
+"star,socialize,cram","signal,drive,run",344385,146498,car,car
+"forage,mine,tattoo","spear,taste,eat",1055897,153510,broccoli,broccoli
+"pilot,wet,rehabilitate","tear,pick,eat",1057833,153510,broccoli,broccoli
+"rake,wrinkle,rock","bite,chew,eat",1560638,153510,broccoli,broccoli
+"pay,peel,pinch","waddle,pick,eat",1562097,153510,broccoli,broccoli
+"hoist,shop,pry","bite,throw,eat",1565403,153510,carrot,carrot
+"unload,officiate,retrieve","cook,pick,balloon",1914584,153510,broccoli,broccoli
+"spank,paste,smear","ask,walk,admire",1250844,154644,person,person
+"sneeze,kick,frisk","call,ask,talk",323250,154644,cell phone,cell_phone
+"juggle,snuggle,craft","complain,ask,brush",487881,154644,person,person
+"butt,sing,bounce","tip,trip,drink",665424,154644,wine glass,wine_glass
+"hike,bite,spoil","call,feed,admire",596215,157098,giraffe,giraffe
+"shave,gasp,rid","call,photograph,admire",598071,157098,giraffe,giraffe
+"dance,twirl,harvest","ask,feed,admire",599126,157098,giraffe,giraffe
+"nail,unplug,poke","walk,check,admire",1820374,16010,cow,cow
+"weigh,perspire,dock","walk,feed,admire",1820429,16010,cow,cow
+"examine,mold,stampede","stand,walk,admire",2070488,16010,zebra,zebra
+"ford,squeeze,crest","tip,videotape,walk",278208,16010,cow,cow
+"confront,swoop,queue","photograph,videotape,talk",589000,16010,zebra,zebra
+"wrap,write,camp","buy,pick,admire",1154752,161397,vase,vase
+"shiver,farm,break","ask,balloon,admire",1154965,161397,vase,vase
+"laugh,chop,shred","communicate,balloon,admire",2026707,161397,person,person
+"grieve,stroke,shop","arch,arrange,sit",100419,163682,chair,chair
+"interview,bite,hitchhike","call,talk,lecture",1732639,163682,person,person
+"score,taxi,hurl","yank,adjust,admire",293266,163682,tie,tie
+"lick,flap,wait","ask,arrange,clean",1644291,164602,sink,sink
+"say,sketch,vault","bubble,wash,clean",1981933,164602,sink,sink
+"bury,sneeze,jog","applaud,hang,adjust",2205667,164602,person,person
+"tow,wag,bet","break,brush,chew",343351,164602,toothbrush,toothbrush
+"bother,milk,heave","carry,rinse,clean",343534,164602,toothbrush,toothbrush
+"hoe,perform,measure","arrest,ask,aim",439735,164602,person,person
+"scrap,float,pot","photograph,smile,shout",1821742,165500,bear,bear
+"wax,skid,recuperate","videotape,run,admire",586757,165500,bear,bear
+"phone,gasp,chisel","arrest,photograph,run",587948,165500,bear,bear
+"carve,mow,pull","arch,ask,admire",444904,166165,person,person
+"restrain,stretch,yawn","cheer,applaud,admire",452210,166165,person,person
+"button,distribute,recuperate","swing,shop,throw",659862,166165,tennis racket,tennis_racket
+"plant,sign,ram","strike,swing,hit",660655,166165,tennis racket,tennis_racket
+"drag,run,manicure","drive,walk,clean",1345019,168330,car,car
+"grind,pucker,burn","arrest,walk,jog",1352285,168330,car,car
+"water,suck,ski","strike,walk,admire",1664370,168330,clock,clock
+"board,drip,slouch","drive,wash,admire",2039728,168330,car,car
+"prowl,pinch,fling","walk,check,admire",339521,168330,clock,clock
+"pray,construct,hitchhike","ask,drive,check",347865,168330,car,car
+"cover,duck,crown","bike,drive,walk",417927,168330,fire hydrant,fire_hydrant
+"lather,retrieve,juggle","peel,bite,eat",1044066,173008,banana,banana
+"smash,interrogate,gnaw","peel,bite,eat",1051505,173008,orange,orange
+"laugh,lift,shear","turn,bake,clean",1119249,173008,microwave,microwave
+"jump,block,submerge","cook,eat,clean",1128416,173008,toaster,toaster
+"place,burn,mold","taste,chew,eat",1541959,173008,banana,banana
+"vault,sleep,commute","slice,admire,eat",1576550,173008,cake,cake
+"empty,taxi,farm","carve,carry,eat",1578058,173008,cake,cake
+"sweep,repair,douse","taste,throw,eat",1578395,173008,cake,cake
+"fuel,dock,hoist","smell,bite,eat",1578455,173008,cake,cake
+"pry,educate,bike","admire,bite,eat",1578610,173008,cake,cake
+"hitchhike,plow,wipe","admire,bite,eat",1578654,173008,cake,cake
+"giggle,gnaw,jog","bake,open,clean",1641880,173008,oven,oven
+"attach,communicate,race","pick,talk,drink",1882924,173008,cup,cup
+"reassure,storm,display","carve,clip,carry",1994872,173008,scissors,scissors
+"haul,shake,slither","slice,bite,eat",2119386,173008,cake,cake
+"pilot,place,spread","bake,cook,clean",2228473,173008,oven,oven
+"hit,brawl,fuel","storm,tear,eat",2231233,173008,cake,cake
+"carry,color,rot","talk,eat,clean",442601,173008,person,person
+"shop,whisk,milk","tap,pick,clean",1107535,186282,mouse,mouse
+"wave,fry,mend","type,sit,clean",1115843,186282,keyboard,keyboard
+"gamble,rear,preach","turn,applaud,adjust",29571,186282,tv,tv
+"heave,dial,hitchhike","drive,wash,clean",1784035,194716,car,car
+"teach,drop,rid","talk,communicate,laugh",2161340,194716,person,person
+"dry,protest,apprehend","pick,talk,put",323903,194716,cell phone,cell_phone
+"package,launch,stuff","autograph,tickle,wave",479581,194716,person,person
+"prowl,erupt,pay","fill,stand,wash",1133279,197796,sink,sink
+"climb,dial,snow","pick,pour,apply",371260,197796,bottle,bottle
+"surf,rain,instal","spray,carry,clean",371432,197796,bottle,bottle
+"chew,misbehave,pot","adjust,admire,clean",81517,197796,bottle,bottle
+"flick,unlock,sit","spray,wash,clean",91994,197796,bottle,bottle
+"slap,storm,wheel","pick,spray,clean",93122,197796,bottle,bottle
+"haul,spear,snuggle","squeeze,shake,clean",94226,197796,bottle,bottle
+"slouch,stumble,pout","shave,call,wash",63253,198960,sheep,sheep
+"rot,ail,guard","call,walk,admire",66848,198960,sheep,sheep
+"tie,throw,deflect","shear,walk,admire",67945,198960,sheep,sheep
+"din,clear,suck","aim,swing,fetch",1460943,203864,sports ball,sports_ball
+"videotape,eat,soar","work,talk,walk",494225,203864,person,person
+"wrinkle,sketch,offer","ask,work,talk",504454,203864,person,person
+"release,confront,phone","swing,yank,practice",657072,203864,tennis racket,tennis_racket
+"spoil,record,land","ask,aim,carry",659888,203864,tennis racket,tennis_racket
+"fetch,prune,juggle","ask,swim,jump",1377357,213033,boat,boat
+"suck,repair,frown","autograph,ascend,walk",1377429,213033,boat,boat
+"butt,stitch,douse","swim,row,admire",1377553,213033,boat,boat
+"pee,kneel,till","board,swim,walk",175955,213033,boat,boat
+"pack,rake,paste","ask,talk,walk",194291,213033,person,person
+"lather,attach,prune","aim,shake,adjust",282459,213033,umbrella,umbrella
+"nail,steer,juggle","tune,yawn,admire",149579,214192,motorcycle,motorcycle
+"sprint,vote,hit","cheer,applaud,admire",193774,214192,person,person
+"shush,tackle,stitch","ask,applaud,admire",206977,214192,person,person
+"braid,waddle,hit","race,adjust,admire",246444,214192,motorcycle,motorcycle
+"pounce,restrain,mime","drive,walk,clean",2052343,215723,truck,truck
+"interrogate,celebrate,measure","stand,open,hang",281005,215723,umbrella,umbrella
+"tug,circle,make","wait,ask,walk",347788,215723,car,car
+"pat,erupt,spear","complain,frown,drive",404899,215723,traffic light,traffic_light
+"swim,slap,snow","ail,call,ask",436397,215723,person,person
+"bounce,hurl,skip","wink,ask,talk",483966,215723,person,person
+"feed,give,water","pick,talk,admire",1160458,219283,teddy bear,teddy_bear
+"admire,commute,plummet","aim,applaud,eat",1544487,219283,banana,banana
+"clench,descend,gnaw","arch,aim,write",1545556,219283,banana,banana
+"pour,give,staple","apprehend,draw,throw",1545738,219283,banana,banana
+"drag,skip,laugh","fill,rinse,clean",1900096,219283,bowl,bowl
+"aim,reassure,dye","wipe,bake,eat",1062127,221872,carrot,carrot
+"educate,pucker,arrest","pick,bite,eat",1063423,221872,carrot,carrot
+"reassure,shear,knead","bake,chew,eat",1064828,221872,carrot,carrot
+"gasp,interview,parachute","wipe,wash,eat",1517467,221872,fork,fork
+"drench,read,hunt","fill,eat,clean",1899304,221872,bowl,bowl
+"comb,cram,hoe","attach,admire,eat",1901563,221872,bowl,bowl
+"prune,check,juggle","sit,wash,eat",1902301,221872,bowl,bowl
+"erase,deflect,prune","wipe,type,adjust",1103352,22371,laptop,laptop
+"cram,shear,sit","pick,write,talk",1649404,22371,book,book
+"fetch,tear,communicate","autograph,yank,admire",293120,22371,tie,tie
+"teach,flame,microwave","ask,walk,sit",495620,22371,person,person
+"wrap,uncork,wet","ask,walk,run",1407523,224093,cow,cow
+"package,shovel,spy","whistle,call,work",2069618,224093,cow,cow
+"ignore,ski,preach","climb,walk,admire",73390,224093,cow,cow
+"confront,smell,arch","milk,pat,feed",74097,224093,cow,cow
+"detain,wet,erupt","whistle,wave,admire",75310,224093,cow,cow
+"urinate,stoop,brew","milk,pat,feed",75937,224093,cow,cow
+"dance,tie,spill","whistle,walk,run",77048,224093,cow,cow
+"examine,hunt,serve","bite,throw,eat",1067600,226130,hot dog,hot_dog
+"run,drag,splash","pick,bite,eat",1069840,226130,hot dog,hot_dog
+"press,ram,caress","wipe,lean,sit",1612901,226130,dining table,dining_table
+"run,rest,stroke","yawn,attach,balloon",1786177,227511,car,car
+"spy,nail,wrap","buckle,ask,drive",1786506,227511,car,car
+"pedal,sleep,recuperate","steer,drive,sit",347459,227511,car,car
+"milk,mow,chop","turn,drive,assemble",347647,227511,car,car
+"package,shrug,spear","ask,walk,run",360979,227511,car,car
+"interrogate,pucker,decorate","aim,assemble,wash",361983,227511,car,car
+"tie,decompose,coach","work,walk,balloon",416022,227511,fire hydrant,fire_hydrant
+"tow,decompose,film","read,type,throw",324641,229216,cell phone,cell_phone
+"sprinkle,harvest,jump","talk,wave,rub",484075,229216,person,person
+"pat,push,hug","ask,talk,communicate",518161,229216,person,person
+"dance,tilt,construct","call,attack,feed",271713,23230,bird,bird
+"fasten,crown,run","whistle,swim,study",272462,23230,bird,bird
+"claw,package,bow","call,photograph,swim",272891,23230,bird,bird
+"swarm,shop,aim","call,ask,admire",38035,23230,bird,bird
+"mend,wag,poke","sit,wash,clean",1096997,232649,toilet,toilet
+"brush,dye,mow","balloon,wash,rinse",1134527,232649,sink,sink
+"unpack,stampede,scoop","talk,admire,clean",1722650,232649,person,person
+"open,pick,smash","call,snuggle,walk",1407965,233567,cow,cow
+"fall,place,open","release,shear,feed",1818414,233567,sheep,sheep
+"applaud,drum,splash","shear,pat,feed",64629,233567,sheep,sheep
+"eject,ignite,wipe","walk,pat,feed",65506,233567,sheep,sheep
+"perform,sharpen,scrub","ascend,attack,feed",66577,233567,sheep,sheep
+"walk,till,stitch","call,ask,write",67488,233567,sheep,sheep
+"waddle,squeeze,preach","shave,shear,feed",67591,233567,sheep,sheep
+"shiver,fling,erupt","strike,swing,chase",302994,237071,sports ball,sports_ball
+"laugh,trim,ram","serve,talk,walk",421607,237071,person,person
+"nip,eject,craft","swing,hit,throw",658784,237071,tennis racket,tennis_racket
+"stretch,retrieve,cart","fill,examine,clean",1132819,239041,sink,sink
+"eat,cough,embrace","ail,turn,adjust",1676042,239041,hair drier,hair_drier
+"sketch,eat,empty","fill,pump,wash",2094161,239041,bottle,bottle
+"row,lean,cling","tune,turn,adjust",30662,239041,tv,tv
+"button,nuzzle,distribute","photograph,pat,sit",1818183,23937,sheep,sheep
+"cough,squint,sneeze","walk,feed,admire",2068974,23937,cow,cow
+"decompose,grieve,lap","photograph,walk,feed",2069536,23937,cow,cow
+"hitchhike,balloon,taste","call,walk,hang",2069712,23937,cow,cow
+"skate,spoil,pucker","camp,walk,admire",278823,23937,cow,cow
+"beg,help,nip","tip,walk,pat",278903,23937,cow,cow
+"wait,kick,count","call,walk,admire",1728036,239773,person,person
+"tear,teach,record","adjust,admire,clean",1859068,239773,baseball glove,baseball_glove
+"unplug,shiver,bubble","swing,hit,pitch",303400,239773,sports ball,sports_ball
+"bulldoze,crush,retrieve","cheer,chase,admire",500446,239773,person,person
+"congregate,stoop,wrap","autograph,swing,admire",631558,239773,baseball bat,baseball_bat
+"parachute,float,ascend","ask,catch,put",634647,239773,baseball glove,baseball_glove
+"reassure,eat,bake","talk,walk,balloon",1720533,243148,person,person
+"cling,cheerlead,block","help,applaud,hug",428140,243148,person,person
+"ascend,tickle,crush","ski,adjust,fall",608290,243148,skis,skis
+"give,turn,apprehend","arrest,carry,clean",609886,243148,skis,skis
+"phone,plant,tackle","arrest,race,pedal",1333569,245173,bicycle,bicycle
+"weep,rear,ignite","lock,bike,walk",1335240,245173,bicycle,bicycle
+"guard,stroke,poop","walk,admire,repair",340353,245173,clock,clock
+"shoot,weigh,stroke","wipe,type,adjust",1103744,246308,laptop,laptop
+"write,detain,sharpen","break,aim,clean",1105510,246308,mouse,mouse
+"spread,vacuum,detain","work,type,sit",1115126,246308,keyboard,keyboard
+"embrace,kiss,slouch","twirl,adjust,sit",1580725,246308,chair,chair
+"tug,poop,train","tune,turn,adjust",32189,246308,tv,tv
+"wipe,gather,squeeze","turn,bake,clean",1125889,248111,oven,oven
+"stuff,braid,drive","wipe,wash,clean",1132926,248111,sink,sink
+"open,cough,shiver","ask,walk,examine",1430684,248111,handbag,handbag
+"stampede,drool,farm","open,tilt,pour",1870483,248111,bottle,bottle
+"ignore,twirl,curtsy","fill,cover,clean",1879789,248111,cup,cup
+"smear,shovel,dissect","ask,load,clean",331811,248111,refrigerator,refrigerator
+"whisk,embrace,milk","arch,ask,wave",1247331,249643,person,person
+"operate,handcuff,din","descend,climb,walk",171389,249643,train,train
+"strike,intermingle,scoop","race,assemble,admire",172889,249643,train,train
+"pucker,sleep,rinse","empty,admire,carry",1172968,250127,handbag,handbag
+"trip,wipe,flip","call,talk,type",1636567,250127,cell phone,cell_phone
+"spread,make,recuperate","board,walk,run",170378,250127,train,train
+"read,douse,steer","ask,talk,walk",184031,250127,person,person
+"press,subdue,curl","pack,admire,carry",284298,250127,umbrella,umbrella
+"rear,cling,shrug","break,bite,eat",1916988,250766,carrot,carrot
+"tune,punt,unveil","sit,repair,scrub",1961461,250766,dining table,dining_table
+"crest,flick,pack","aim,bite,eat",2218964,250766,sandwich,sandwich
+"hunch,submerge,bulldoze","serve,wipe,eat",687378,250766,fork,fork
+"dive,attack,erupt","apprehend,wipe,yank",695997,250766,knife,knife
+"grind,cling,stuff","stand,open,read",1147150,251824,book,book
+"swim,cling,ski","wipe,slice,pick",1158406,251824,scissors,scissors
+"display,eat,wave","help,assemble,brush",2162297,251824,person,person
+"shoot,make,seal","wipe,urinate,clean",1093329,255401,toilet,toilet
+"drool,shrug,buckle","fill,wash,clean",1133613,255401,sink,sink
+"pay,say,pot","check,throw,clean",1487758,255401,bottle,bottle
+"block,instal,waddle","ask,throw,clean",1865461,255401,bottle,bottle
+"work,camp,measure","urinate,sit,clean",1967506,255401,toilet,toilet
+"glow,preach,ram","slice,tear,wash",1158260,255483,scissors,scissors
+"block,submerge,storm","ascend,read,assemble",1987332,255483,book,book
+"poop,stack,aim","arch,call,ask",449498,255483,person,person
+"pry,stand,balloon","wipe,sit,clean",1095822,257169,toilet,toilet
+"float,drip,pedal","turn,whip,bake",1188308,257169,hair drier,hair_drier
+"write,comb,shout","ail,talk,admire",1216289,257169,person,person
+"swarm,kneel,grin","ascend,ask,clean",2211601,257169,handbag,handbag
+"open,push,sing","block,catch,throw",1447999,261036,frisbee,frisbee
+"overflow,dive,destroy","ascend,ask,applaud",424746,261036,person,person
+"yawn,drip,plow","call,talk,walk",459358,261036,person,person
+"pump,buckle,suck","call,applaud,communicate",462921,261036,person,person
+"ford,extinguish,stand","pick,work,throw",603128,261036,frisbee,frisbee
+"din,spear,gather","slip,fetch,throw",604720,261036,frisbee,frisbee
+"display,march,manicure","empty,open,carry",1184301,261318,suitcase,suitcase
+"scratch,stitch,film","ascend,brush,carry",1185136,261318,suitcase,suitcase
+"shout,juggle,stack","ask,pack,open",1835395,261318,handbag,handbag
+"prowl,nail,wave","adjust,sit,assemble",1936867,261318,chair,chair
+"press,bet,moisten","turn,ask,talk",323575,261318,cell phone,cell_phone
+"sow,drive,dye","call,talk,sit",441426,261318,person,person
+"grill,commute,brew","poop,pee,clean",1096724,262440,toilet,toilet
+"baptize,cheer,brew","apply,wash,clean",1130746,262440,sink,sink
+"steer,claw,whirl","tip,ask,arrange",81241,262440,bottle,bottle
+"attack,land,recover","smile,pat,balloon",10416,263463,dog,dog
+"congregate,massage,preach","bake,adjust,clean",145584,263463,car,car
+"apprehend,gather,taste","board,wave,chase",2050159,263463,bus,bus
+"dip,tear,bite","attach,sit,clean",574930,263463,bench,bench
+"wilt,spank,spit","apprehend,assemble,eat",1084955,263969,cake,cake
+"bulldoze,push,grind","adjust,tug,admire",294466,263969,tie,tie
+"surf,discuss,ascend","whistle,talk,applaud",444839,263969,person,person
+"caress,kick,smell","photograph,applaud,laugh",451357,263969,person,person
+"bounce,mine,chisel","wipe,slice,aim",699803,263969,knife,knife
+"plummet,rid,lap","urinate,sit,repair",1093657,268831,toilet,toilet
+"sting,distract,ignite","wipe,walk,clean",1094709,268831,toilet,toilet
+"crest,wink,rain","turn,wash,clean",1132340,268831,sink,sink
+"sign,cling,ascend","drive,walk,sit",348515,26926,car,car
+"talk,wave,drag","aim,drive,walk",350419,26926,car,car
+"imitate,sharpen,retrieve","ask,attack,clean",417565,26926,fire hydrant,fire_hydrant
+"buy,light,spread","twist,whip,arch",1109234,27186,remote,remote
+"panhandle,clap,speak","snuggle,sit,rest",112314,27186,couch,couch
+"gasp,frisk,pay","walk,jump,sit",114454,27186,couch,couch
+"parade,fall,pounce","cheer,talk,smile",469199,27186,person,person
+"soar,dial,camouflage","aim,hit,throw",306473,273493,sports ball,sports_ball
+"record,overflow,count","apprehend,call,applaud",497651,273493,person,person
+"strike,stir,jog","call,exercise,wave",502588,273493,person,person
+"crest,strap,extinguish","break,attack,swing",659690,273493,tennis racket,tennis_racket
+"unplug,sharpen,frisk","swing,hit,throw",660368,273493,tennis racket,tennis_racket
+"shelve,snow,sniff","bake,bite,eat",1071975,27696,pizza,pizza
+"yank,blossom,crush","slice,cook,lift",2104858,27696,knife,knife
+"protest,wipe,gamble","talk,sit,eat",470823,27696,person,person
+"congregate,skip,vacuum","pick,wash,eat",686088,27696,fork,fork
+"board,push,stumble","call,applaud,attach",1718334,278705,person,person
+"detain,clean,harvest","waddle,drive,admire",350898,278705,car,car
+"attack,color,deflect","drive,walk,run",355725,278705,car,car
+"inject,paint,reassure","arrest,skate,adjust",511685,278705,person,person
+"rehabilitate,douse,storm","skate,jump,race",639264,278705,skateboard,skateboard
+"complain,chew,surf","crouch,chase,admire",642054,278705,skateboard,skateboard
+"erase,swim,cry","open,wash,put",1177693,281754,handbag,handbag
+"release,interrogate,frisk","arch,fold,arrange",284193,281754,umbrella,umbrella
+"seal,shush,crouch","talk,wave,walk",474226,281754,person,person
+"light,whirl,baptize","talk,adjust,feed",510727,281754,person,person
+"mop,clap,weld","adjust,sit,repair",125814,281929,bicycle,bicycle
+"plant,catch,display","talk,walk,brush",2154526,281929,person,person
+"exterminate,slice,smear","tie,adjust,wash",293663,281929,tie,tie
+"encourage,curtsy,tickle","slice,taste,wash",1555905,283070,orange,orange
+"fish,bother,protest","suck,squeeze,eat",1557320,283070,orange,orange
+"wax,wheel,cry","slice,squeeze,bite",1557820,283070,orange,orange
+"shovel,fill,rain","adjust,bite,eat",1558049,283070,orange,orange
+"float,assemble,check","peel,squeeze,eat",1558627,283070,orange,orange
+"eat,cheerlead,rain","poke,squeeze,place",1067226,283268,hot dog,hot_dog
+"sign,rot,spoil","talk,sit,eat",1706978,283268,person,person
+"ask,dive,inject","talk,walk,balloon",443736,283268,person,person
+"drench,sing,fill","photograph,walk,admire",594701,284296,giraffe,giraffe
+"braid,jump,lap","call,climb,check",600375,284296,giraffe,giraffe
+"gather,chase,ram","photograph,videotape,admire",601011,284296,giraffe,giraffe
+"pick,browse,mime","attack,wave,apply",2149574,284743,person,person
+"bury,nail,perform","arrest,ask,block",2150096,284743,person,person
+"shave,sketch,swim","call,talk,applaud",2150120,284743,person,person
+"raft,attack,wad","call,talk,hit",2150477,284743,person,person
+"clip,rid,repair","photograph,walk,socialize",438525,284743,person,person
+"encourage,pout,spray","pick,swing,hit",627441,284743,baseball bat,baseball_bat
+"teach,strap,swarm","autograph,beg,read",1650933,293474,book,book
+"speak,board,shovel","pick,read,admire",2141510,293474,book,book
+"peel,hoist,drop","buy,pick,read",2141707,293474,book,book
+"spread,lean,butter","write,open,read",2142444,293474,book,book
+"telephone,chew,cough","buy,ask,read",2144056,293474,book,book
+"swarm,mime,sprout","aim,apply,admire",416471,293474,fire hydrant,fire_hydrant
+"flex,walk,stir","bake,fling,eat",1072465,294831,pizza,pizza
+"sing,whirl,build","work,type,adjust",1098004,294831,laptop,laptop
+"celebrate,calm,call","balloon,eat,clean",1619256,294831,dining table,dining_table
+"measure,clean,race","knock,drink,rinse",2183983,294831,cup,cup
+"leap,glare,clear","talk,walk,sit",461239,294831,person,person
+"mime,unveil,hunch","beg,bite,eat",1068304,29675,hot dog,hot_dog
+"spy,buy,type","break,bite,eat",1069756,29675,hot dog,hot_dog
+"collide,whirl,wink","cook,chew,eat",1069835,29675,hot dog,hot_dog
+"sprinkle,hoe,weigh","sit,eat,clean",414836,29675,dining table,dining_table
+"nuzzle,reassure,destroy","attack,bite,eat",1074621,306700,pizza,pizza
+"fry,pedal,shake","stand,sit,eat",122984,306700,dining table,dining_table
+"raft,sprint,butt","talk,smile,eat",183681,306700,person,person
+"haul,fill,twist","slice,lick,eat",685769,306700,fork,fork
+"pay,build,apprehend","slice,admire,eat",1072948,307172,pizza,pizza
+"sting,shovel,moisturize","drink,sit,eat",391983,307172,dining table,dining_table
+"wave,row,ignite","tune,feed,eat",485056,307172,person,person
+"pump,press,boat","empty,drink,shake",672309,307172,cup,cup
+"trip,shout,camp","tip,turn,wipe",714564,307172,bowl,bowl
+"talk,complain,pin","pick,yank,check",1171421,30828,backpack,backpack
+"mourn,staple,perform","drive,walk,clean",2042941,30828,car,car
+"whisk,scrap,parachute","steer,pay,apply",418950,30828,parking meter,parking_meter
+"frisk,brush,pedal","sign,walk,jog",461443,30828,person,person
+"grind,plummet,cheer","sit,sleep,rest",574102,30828,bench,bench
+"reassure,vacuum,descend","buckle,drive,sit",1342990,308531,car,car
+"shush,bubble,mend","break,sit,rest",1813381,308531,bench,bench
+"spray,shiver,pay","videotape,adjust,admire",336659,308531,clock,clock
+"gasp,parachute,disembark","slip,stroke,attach",1170521,309467,backpack,backpack
+"scrub,wring,interview","shrug,adjust,unload",1171312,309467,backpack,backpack
+"punt,blossom,educate","ascend,attack,adjust",1849624,309467,skis,skis
+"pot,uncork,scold","work,attach,put",2200838,309467,skis,skis
+"examine,unplug,submerge","bet,ask,admire",448392,309467,person,person
+"rain,pilot,compete","whistle,ski,arch",464186,309467,person,person
+"deflect,study,plow","call,photograph,talk",1233457,31093,person,person
+"burn,bandage,protest","pick,open,walk",1421746,31093,backpack,backpack
+"wave,wrinkle,sow","skate,work,stand",1475365,31093,skateboard,skateboard
+"dock,rock,complain","videotape,talk,wave",2157893,31093,person,person
+"videotape,wipe,unload","whistle,applaud,admire",453234,31093,person,person
+"splash,fling,rain","flip,arrest,jump",638282,31093,skateboard,skateboard
+"soar,wag,wet","swarm,swim,row",1802046,312489,boat,boat
+"kick,scoop,provide","board,talk,wave",449078,312489,person,person
+"sprout,rear,craft","cheer,call,aim",482173,312489,person,person
+"bury,queue,shred","wax,stand,jump",653512,312489,surfboard,surfboard
+"train,sew,cart","arrange,admire,clean",1615836,318114,dining table,dining_table
+"give,chase,whisk","spill,knock,drink",1881218,318114,cup,cup
+"stoop,scold,punt","squeeze,bite,eat",1912165,318114,orange,orange
+"exercise,stand,smash","slice,ask,bite",1929059,318114,cake,cake
+"run,till,photograph","break,eat,clean",2217400,318114,bowl,bowl
+"stoop,urinate,give","pick,scoop,eat",690530,318114,fork,fork
+"twist,surf,flick","wipe,adjust,crush",1108536,319100,remote,remote
+"douse,caress,plant","wipe,yank,assemble",1111776,319100,remote,remote
+"frisk,pay,interrogate","stretch,sit,sleep",112242,319100,couch,couch
+"help,signal,balloon","drink,push,throw",1483790,319100,bottle,bottle
+"mine,glue,extinguish","cheer,applaud,laugh",205732,319100,person,person
+"spread,buy,boat","cook,applaud,admire",210248,319100,person,person
+"wrap,tickle,overflow","tune,strip,throw",29148,319100,tv,tv
+"brew,salute,wash","storm,stand,eat",1084917,321214,cake,cake
+"squeeze,aim,plummet","sit,pull,clean",2121063,321214,chair,chair
+"phone,trim,rest","help,talk,smile",423941,321214,person,person
+"block,hunch,skate","kiss,hug,sleep",1161811,321333,teddy bear,teddy_bear
+"swoop,lick,recover","whistle,aim,hug",1249947,321333,person,person
+"attack,drool,inflate","ascend,arch,ask",2159338,321333,person,person
+"star,stretch,juggle","adjust,check,apply",1099821,32610,laptop,laptop
+"dust,wrinkle,massage","ask,work,type",1103586,32610,laptop,laptop
+"detain,rid,misbehave","wipe,work,attach",1103853,32610,laptop,laptop
+"clip,kneel,sketch","bandage,fill,clean",1164885,32610,backpack,backpack
+"boat,help,empty","attack,type,clean",1627046,32610,laptop,laptop
+"eject,write,stack","lock,work,arrange",1627381,32610,laptop,laptop
+"snow,scratch,nag","turn,ask,read",1970803,32610,laptop,laptop
+"stampede,dive,plant","pack,yank,weigh",2073637,326128,backpack,backpack
+"queue,stack,socialize","ask,applaud,admire",496288,326128,person,person
+"grind,pilot,drink","cheer,pick,stand",619672,326128,snowboard,snowboard
+"pinch,tune,cling","ask,talk,walk",1213713,333402,person,person
+"tune,rid,rake","commute,ask,sit",1229341,333402,person,person
+"spin,claw,knead","talk,film,carry",1635720,333402,cell phone,cell_phone
+"stampede,ford,measure","walk,sit,catch",168137,333402,bus,bus
+"dial,tie,lean","ask,walk,laugh",212801,333402,person,person
+"guard,curl,unpack","pat,admire,brush",61806,340272,sheep,sheep
+"crouch,chop,release","ask,shear,walk",63158,340272,sheep,sheep
+"hang,jump,dial","catch,draw,admire",63250,340272,sheep,sheep
+"shave,discuss,paint","ask,yank,carry",1179360,343496,handbag,handbag
+"draw,pedal,rock","autograph,assemble,admire",2038750,343496,car,car
+"count,exercise,sell","write,walk,run",270212,343496,stop sign,stop_sign
+"mine,flame,inject","buckle,drive,wash",348435,343496,car,car
+"shred,wink,stitch","lean,paint,walk",416765,343496,fire hydrant,fire_hydrant
+"lift,attack,hoist","call,ask,walk",430355,343496,person,person
+"gather,hug,crash","bow,applaud,admire",581487,346905,elephant,elephant
+"type,panhandle,repair","photograph,crouch,feed",584349,346905,elephant,elephant
+"farm,gasp,open","walk,pat,admire",585924,346905,elephant,elephant
+"sing,whip,lick","complain,call,walk",1289668,348881,person,person
+"wash,serve,slouch","buckle,board,admire",1363961,348881,airplane,airplane
+"whirl,stretch,handcuff","ascend,ask,carry",1445296,348881,suitcase,suitcase
+"unplug,fall,lather","talk,walk,race",185744,348881,person,person
+"browse,wilt,erupt","ascend,walk,sit",247475,348881,airplane,airplane
+"boat,immerse,wheel","tip,microwave,eat",1531561,350388,bowl,bowl
+"photograph,offer,smell","stir,ask,eat",1915460,350388,broccoli,broccoli
+"tickle,coach,drool","spear,scoop,eat",1916173,350388,broccoli,broccoli
+"rock,curl,scrub","fish,scoop,eat",1916215,350388,broccoli,broccoli
+"shout,draw,eject","scoop,bite,eat",1916266,350388,broccoli,broccoli
+"buckle,photograph,read","ski,call,arrange",1237614,350405,person,person
+"bow,whip,prowl","whistle,weep,admire",2151509,350405,person,person
+"tug,immerse,coach","wax,fall,wash",619147,350405,snowboard,snowboard
+"harvest,unload,paste","walk,adjust,clean",314181,355257,bed,bed
+"bounce,din,educate","wait,bake,rehabilitate",501301,355257,person,person
+"stampede,immerse,smash","hang,apply,carry",92491,355257,bottle,bottle
+"unveil,mow,wilt","walk,run,admire",169148,355817,bus,bus
+"manicure,butter,pray","ask,talk,sit",1745306,355817,person,person
+"trim,cram,turn","call,wave,walk",188530,355817,person,person
+"chisel,bite,water","bake,cook,eat",1539342,356347,bowl,bowl
+"stuff,snow,prick","fill,fish,clean",701707,356347,spoon,spoon
+"suck,throw,trip","fill,wash,eat",713208,356347,bowl,bowl
+"giggle,surf,cheerlead","apprehend,sit,balloon",151246,363875,motorcycle,motorcycle
+"turn,dance,embrace","drive,wave,walk",189840,363875,person,person
+"brush,plant,twirl","call,aim,sit",2049615,363875,bus,bus
+"balloon,spear,race","wipe,wash,rinse",1643705,365385,sink,sink
+"kneel,erupt,sign","drink,walk,put",1878454,365385,cup,cup
+"mop,feed,lock","brush,rinse,clean",1997750,365385,toothbrush,toothbrush
+"grin,count,curl","wash,brush,rinse",1998136,365385,toothbrush,toothbrush
+"star,ail,descend","drink,apply,clean",2215046,365385,cup,cup
+"pat,hitchhike,strip","wipe,wash,brush",341819,365385,toothbrush,toothbrush
+"discuss,flame,spray","turn,wipe,cook",1120963,365766,microwave,microwave
+"hunt,interrogate,shovel","turn,cook,clean",1124124,365766,oven,oven
+"strip,strike,pat","fill,wash,clean",1133664,365766,sink,sink
+"pat,tug,arch","squeeze,bite,eat",1051783,369370,orange,orange
+"bounce,shovel,repair","squeeze,balloon,eat",1556608,369370,orange,orange
+"package,ascend,drip","clear,eat,clean",1617339,369370,dining table,dining_table
+"congregate,manicure,guard","pick,bite,eat",309938,369370,sandwich,sandwich
+"smash,chisel,spread","bite,throw,eat",312268,369370,sandwich,sandwich
+"floss,light,fetch","bite,throw,eat",312956,369370,sandwich,sandwich
+"strip,rid,tie","complain,taste,put",313304,369370,sandwich,sandwich
+"shave,strike,tip","applaud,hang,adjust",14418,369541,dog,dog
+"preach,scold,swoop","call,walk,carry",1718078,369541,person,person
+"spray,bake,destroy","pick,catch,throw",1844816,369541,frisbee,frisbee
+"crest,sing,congregate","wink,trip,communicate",191574,369541,person,person
+"lift,pedal,crouch","ask,wave,jog",198600,369541,person,person
+"intermingle,bathe,press","ask,talk,walk",2022484,369541,person,person
+"butter,douse,wilt","talk,walk,sit",2152632,369541,person,person
+"recover,caress,applaud","wipe,race,jog",125303,370208,bicycle,bicycle
+"craft,stroke,spank","aim,walk,run",1268441,370208,person,person
+"bet,throw,stoop","pay,tip,walk",1389866,370208,parking meter,parking_meter
+"skip,unlock,light","break,tear,adjust",1810226,370208,parking meter,parking_meter
+"feed,peel,launch","wipe,ask,clean",1136682,376310,sink,sink
+"dial,gamble,congregate","adjust,wash,clean",1136803,376310,sink,sink
+"taste,launch,drool","turn,wash,clean",1136844,376310,sink,sink
+"press,poke,snuggle","urinate,sit,clean",2133633,376310,toilet,toilet
+"carve,bake,light","skate,wave,hang",1238243,377635,person,person
+"buy,detain,pray","arch,call,speak",1246027,377635,person,person
+"lecture,wave,type","call,ask,walk",1266647,377635,person,person
+"clean,vault,eat","cheer,applaud,admire",2154581,377635,person,person
+"chisel,score,insert","flip,jump,fall",637730,377635,skateboard,skateboard
+"prune,immerse,snow","skate,jump,fall",638192,377635,skateboard,skateboard
+"shred,tug,turn","drool,pick,eat",1080787,377814,donut,donut
+"run,butter,lace","drool,taste,eat",1081335,377814,donut,donut
+"speak,rub,unpack","admire,bite,eat",1082054,377814,donut,donut
+"lather,hang,educate","apprehend,lick,eat",1082146,377814,donut,donut
+"type,stretch,bounce","pick,bite,eat",2118211,377814,donut,donut
+"burn,snow,build","taste,lick,eat",2118860,377814,donut,donut
+"crest,work,spit","bubble,brush,clean",1133558,383443,sink,sink
+"mine,turn,count","adjust,wash,clean",1134288,383443,sink,sink
+"pitch,autograph,rake","pick,aim,press",1630335,383443,remote,remote
+"tip,crash,wring","turn,carry,clean",34111,383443,tv,tv
+"retrieve,baptize,skid","swoop,bounce,ask",1854505,384670,sports ball,sports_ball
+"scold,chop,frisk","attack,check,assemble",487266,384670,person,person
+"type,land,examine","call,talk,applaud",490428,384670,person,person
+"weld,plunge,wet","work,swing,yank",655160,384670,tennis racket,tennis_racket
+"coach,disembark,sell","talk,walk,admire",1203415,385190,person,person
+"repair,wring,sprinkle","complain,ask,admire",370933,385190,bottle,bottle
+"commute,carry,taxi","turn,wait,race",408176,385190,traffic light,traffic_light
+"knead,glare,blossom","call,ask,walk",459373,385190,person,person
+"strip,punt,fling","write,walk,admire",475568,385190,person,person
+"spank,pitch,pin","ail,wipe,walk",1456436,393469,snowboard,snowboard
+"lecture,cover,raft","waddle,call,camp",421984,393469,person,person
+"stand,march,stumble","photograph,pick,help",466687,393469,person,person
+"submerge,smile,dust","autograph,adjust,attach",619689,393469,snowboard,snowboard
+"douse,garden,exercise","slice,bite,eat",1073032,402433,pizza,pizza
+"call,wet,massage","pick,bite,eat",1073961,402433,pizza,pizza
+"reassure,wink,baptize","slice,yank,admire",2047515,402433,motorcycle,motorcycle
+"wash,bathe,calm","ask,sleep,carry",1995194,404484,teddy bear,teddy_bear
+"gamble,punt,bathe","water,adjust,admire",23289,404484,potted plant,potted_plant
+"lap,wheel,carry","spy,talk,socialize",253673,404484,person,person
+"spank,parade,plant","break,walk,fix",33612,404484,tv,tv
+"skip,plummet,scoop","whistle,call,admire",7981,404484,dog,dog
+"plow,garden,block","run,balloon,throw",1717393,404923,person,person
+"sting,paste,smear","ask,applaud,walk",1722211,404923,person,person
+"poop,call,embrace","complain,browse,admire",1757003,404923,person,person
+"chop,practice,shoot","wink,stretch,admire",461736,404923,person,person
+"write,preach,slouch","break,swing,hit",631084,404923,baseball bat,baseball_bat
+"balloon,twirl,vote","yank,adjust,scoop",296589,406417,tie,tie
+"stampede,pee,sow","arrest,arrange,adjust",298298,406417,tie,tie
+"talk,soak,grin","break,attack,pull",299243,406417,tie,tie
+"rinse,camouflage,fix","encourage,photograph,admire",478879,406417,person,person
+"flex,chew,float","cheer,arrest,applaud",508136,406417,person,person
+"commute,ignite,distribute","photograph,aim,applaud",513983,406417,person,person
+"mop,smell,offer","wipe,empty,check",1532739,407825,bowl,bowl
+"flap,display,hang","water,arrange,admire",1605524,407825,potted plant,potted_plant
+"chew,rehabilitate,descend","poke,walk,admire",1815242,407825,bird,bird
+"arrest,fold,punch","pick,adjust,check",2111404,407825,apple,apple
+"fetch,mine,giggle","attack,adjust,check",341578,407825,clock,clock
+"race,build,storm","sit,lift,clean",1095844,408696,toilet,toilet
+"forage,hunt,pay","talk,applaud,drink",1245345,408696,person,person
+"cover,butt,caress","call,ask,walk",1255174,408696,person,person
+"throw,retrieve,protest","complain,walk,laugh",453999,408696,person,person
+"discipline,flick,prowl","bandage,ask,talk",467239,408696,person,person
+"discipline,pour,pounce","slouch,lean,stack",103573,415741,chair,chair
+"pilot,yank,baptize","tip,sit,clean",107242,415741,chair,chair
+"bury,ford,exercise","pick,read,study",1648235,415741,book,book
+"raft,stitch,shred","pick,open,read",1648882,415741,book,book
+"land,beg,dance","open,read,lift",1651055,415741,book,book
+"tear,chew,curl","bounce,jump,adjust",315201,415741,bed,bed
+"open,scratch,smile","call,ask,wave",1217529,422706,person,person
+"emerge,unlock,push","knock,ask,walk",1436142,422706,handbag,handbag
+"fling,dock,dip","ascend,swim,adjust",175488,422706,boat,boat
+"drool,distract,educate","lean,talk,stand",203282,422706,person,person
+"slide,steer,press","cheer,ask,brush",208369,422706,person,person
+"sit,instal,lift","lean,stand,walk",216026,422706,person,person
+"break,telephone,eat","ask,drink,clean",1504681,423506,cup,cup
+"whisk,fix,board","call,break,laugh",1730374,423506,person,person
+"juggle,soak,inject","ask,adjust,admire",1840333,423506,tie,tie
+"prick,pounce,operate","adjust,tug,admire",295598,423506,tie,tie
+"gather,pour,clip","work,write,adjust",486348,423506,person,person
+"clear,calm,pout","bake,cook,bite",1047492,424721,apple,apple
+"repair,yawn,pour","bake,cook,chew",1062864,424721,carrot,carrot
+"din,weed,wag","peel,slice,bite",1064205,424721,carrot,carrot
+"nuzzle,microwave,branch","admire,bite,eat",1064672,424721,carrot,carrot
+"place,build,whirl","bake,pick,trim",1064882,424721,carrot,carrot
+"crash,extinguish,educate","butter,cook,balloon",1548810,424721,apple,apple
+"bandage,drop,sleep","wipe,sit,assemble",1936075,424721,chair,chair
+"rub,braid,shred","browse,work,brush",1104020,427034,laptop,laptop
+"attack,sell,strip","ask,admire,clean",1666019,427034,clock,clock
+"ram,ascend,dance","ask,talk,hang",191162,427034,person,person
+"land,fill,imitate","glare,smile,pat",2066936,427034,dog,dog
+"browse,intermingle,jog","pat,feed,admire",5437,427034,dog,dog
+"taxi,inject,gasp","balloon,admire,clean",1993776,429530,vase,vase
+"crash,detain,smell","fill,arrange,admire",1994143,429530,vase,vase
+"wax,sting,recuperate","fill,ask,clean",1994241,429530,vase,vase
+"whisk,cheer,put","tip,pour,admire",1994424,429530,vase,vase
+"immerse,feed,guard","write,type,adjust",1117016,430056,keyboard,keyboard
+"glare,stand,recover","adjust,bite,eat",2187216,430056,sandwich,sandwich
+"dye,mop,uncork","mow,bite,eat",313706,430056,sandwich,sandwich
+"bake,vault,wet","photograph,walk,check",1409781,433374,elephant,elephant
+"browse,haul,clench","photograph,assemble,admire",580263,433374,elephant,elephant
+"release,tow,pee","ascend,photograph,climb",580412,433374,elephant,elephant
+"sweep,erase,squint","pat,feed,admire",581467,433374,elephant,elephant
+"autograph,crawl,communicate","photograph,admire,pull",581992,433374,elephant,elephant
+"burn,claw,wilt","ask,photograph,admire",582184,433374,elephant,elephant
+"nag,write,plummet","bite,chew,eat",1071318,434479,pizza,pizza
+"inflate,paint,launch","arch,bite,throw",1074741,434479,pizza,pizza
+"pounce,inject,comb","wipe,sit,scrub",1614689,434479,dining table,dining_table
+"buy,repair,fuel","apprehend,applaud,sit",1937747,434479,chair,chair
+"flex,bet,bounce","sit,admire,eat",1619396,438226,dining table,dining_table
+"stroke,spy,drag","pick,bite,eat",2221530,438226,hot dog,hot_dog
+"garden,sprint,caress","pick,bite,eat",309094,438226,sandwich,sandwich
+"chase,restrain,retrieve","pick,examine,eat",309693,438226,sandwich,sandwich
+"fall,color,uncork","spill,drink,pour",662573,438226,wine glass,wine_glass
+"row,count,nail","aim,adjust,eat",690825,438226,fork,fork
+"intermingle,spy,scrap","applaud,apply,admire",438061,44195,person,person
+"unload,vote,bounce","ski,ask,admire",464298,44195,person,person
+"block,interrogate,record","wipe,stand,race",618057,44195,snowboard,snowboard
+"flip,row,count","fall,sit,clean",1094300,446574,toilet,toilet
+"urinate,apprehend,pout","ask,pick,arrange",1868619,446574,bottle,bottle
+"pedal,wipe,buy","uncork,wash,rinse",80087,446574,bottle,bottle
+"smile,mime,soak","whistle,cheer,applaud",1225920,447187,person,person
+"perspire,sting,wave","ascend,arrest,ask",1470763,447187,baseball glove,baseball_glove
+"carry,tune,boat","hit,catch,throw",301594,447187,sports ball,sports_ball
+"whisk,farm,brush","call,aim,hit",448505,447187,person,person
+"browse,say,flame","walk,attach,balloon",498458,447187,person,person
+"land,talk,prune","tackle,applaud,admire",541792,447187,person,person
+"exercise,duck,pounce","hit,carry,throw",632724,447187,baseball bat,baseball_bat
+"hitchhike,prowl,gather","storm,smash,drink",1873558,450202,wine glass,wine_glass
+"poke,tackle,cram","prick,eat,clean",2102152,450202,fork,fork
+"instal,pray,kick","sit,eat,clean",392713,450202,dining table,dining_table
+"lean,pour,smile","talk,applaud,wave",425365,450202,person,person
+"cheerlead,ford,spread","turn,stand,tug",464082,450202,person,person
+"storm,punt,dock","drink,sit,smell",661799,450202,wine glass,wine_glass
+"lace,strike,distract","break,drink,wash",663443,450202,wine glass,wine_glass
+"baptize,turn,crush","board,walk,sit",165647,452321,bus,bus
+"unlock,wad,haul","wait,drive,walk",166153,452321,bus,bus
+"lift,paste,break","board,walk,check",1794029,452321,bus,bus
+"package,instruct,paste","drive,climb,check",248552,452321,bus,bus
+"fall,bet,sell","bake,adjust,clean",1128623,453302,toaster,toaster
+"trip,dock,flap","empty,wash,clean",1133458,453302,sink,sink
+"pitch,fetch,imitate","walk,sit,push",1590221,453302,chair,chair
+"unload,immerse,mourn","turn,cook,clean",1978587,453302,microwave,microwave
+"decompose,dance,congregate","turn,cook,open",1979154,453302,microwave,microwave
+"grin,gamble,poop","wipe,open,clean",332751,453302,refrigerator,refrigerator
+"sprint,autograph,poop","drink,adjust,rinse",80342,453302,bottle,bottle
+"light,lead,manicure","lean,stand,sit",1930413,453584,chair,chair
+"unplug,jump,hit","slide,photograph,sit",1942853,453584,chair,chair
+"break,crush,rock","wipe,work,sit",1947531,453584,chair,chair
+"forage,nip,sprout","adjust,sit,rinse",1948038,453584,chair,chair
+"flex,protest,stir","sit,apply,lift",1948432,453584,chair,chair
+"press,heave,soak","sit,lift,clean",2223445,453584,chair,chair
+"race,ram,congregate","stretch,sit,sleep",572535,453584,bench,bench
+"wheel,wash,fold","peel,pick,eat",1051276,45472,orange,orange
+"clip,drive,poop","drink,lift,clean",683905,45472,cup,cup
+"rehabilitate,rid,gamble","break,pick,drink",684810,45472,cup,cup
+"unplug,perspire,bubble","drink,wash,clean",684903,45472,cup,cup
+"boat,pot,repair","drink,walk,clean",684935,45472,cup,cup
+"pay,scoop,plunge","spill,stand,drink",685083,45472,cup,cup
+"confront,queue,overflow","break,drive,adjust",270041,460229,stop sign,stop_sign
+"hug,buckle,arrest","ascend,walk,admire",397553,460229,truck,truck
+"pilot,immerse,curl","wipe,yank,drive",402562,460229,traffic light,traffic_light
+"jog,extinguish,shear","drive,race,check",407291,460229,traffic light,traffic_light
+"paw,autograph,yawn","ask,drive,admire",1191608,464824,car,car
+"subdue,slap,handcuff","turn,open,sit",1388324,464824,fire hydrant,fire_hydrant
+"stand,release,spy","ask,help,lean",2161842,464824,person,person
+"immerse,spread,till","call,sleep,carry",210511,469067,person,person
+"inject,urinate,pot","turn,pick,lift",2136215,469067,remote,remote
+"work,distribute,cough","stumble,walk,sleep",319289,469067,bed,bed
+"moisten,sketch,light","turn,break,adjust",329572,469067,cell phone,cell_phone
+"slither,unveil,mend","snuggle,admire,brush",49461,469067,cat,cat
+"write,microwave,lean","bandage,cry,run",586443,471450,bear,bear
+"hitchhike,scrap,wipe","photograph,run,admire",588013,471450,bear,bear
+"poke,salute,unplug","run,adjust,admire",588031,471450,bear,bear
+"snow,handcuff,swim","walk,pedal,sit",125429,473118,bicycle,bicycle
+"serve,tug,restrain","cheer,photograph,applaud",200685,473118,person,person
+"kneel,fasten,shave","work,jump,fall",639656,473118,skateboard,skateboard
+"shrug,flick,inflate","recuperate,snuggle,sit",114818,473821,couch,couch
+"drive,strap,ski","read,sit,admire",381674,473821,chair,chair
+"browse,fetch,pout","arrange,vacuum,sit",385417,473821,chair,chair
+"crown,star,smile","arrange,tilt,admire",712802,473821,bowl,bowl
+"open,panhandle,descend","curl,snuggle,hug",1161167,474039,teddy bear,teddy_bear
+"pray,farm,serve","pick,squeeze,hug",1162628,474039,teddy bear,teddy_bear
+"stack,push,tattoo","spank,kiss,lift",466727,474039,person,person
+"pucker,wait,plant","buckle,applaud,sit",183778,47571,person,person
+"poop,rinse,lick","whistle,whip,adjust",202909,47571,person,person
+"dial,plow,misbehave","call,walk,admire",54280,47571,horse,horse
+"phone,seal,pry","cheer,talk,wave",1269043,47740,person,person
+"pay,tear,eject","applaud,race,admire",1707009,47740,person,person
+"release,socialize,study","call,communicate,hang",489230,47740,person,person
+"squeeze,film,write","help,talk,admire",490497,47740,person,person
+"film,stumble,rub","aim,run,examine",621404,47740,kite,kite
+"carry,chop,waddle","walk,run,throw",623521,47740,kite,kite
+"shiver,strike,detain","yank,walk,carry",1185808,47819,suitcase,suitcase
+"draw,pitch,urinate","unpack,pack,carry",1443941,47819,suitcase,suitcase
+"clench,punch,push","speak,walk,adjust",1727464,47819,person,person
+"disembark,spoil,whisk","talk,stroke,walk",54378,47819,horse,horse
+"fold,load,launch","call,attack,wave",1218260,488251,person,person
+"handcuff,grieve,subdue","ask,aim,drive",1348356,488251,car,car
+"poop,frown,emerge","drive,climb,clean",1349489,488251,car,car
+"drop,crown,shell","sit,load,eat",1364929,488251,bus,bus
+"interrogate,slip,autograph","photograph,speak,applaud",183598,488251,person,person
+"film,spill,caress","photograph,pat,brush",57829,488251,horse,horse
+"haul,throw,ask","swim,surf,admire",10122,490171,dog,dog
+"hunt,soar,manicure","swim,train,talk",203146,490171,person,person
+"bet,cheer,communicate","swim,stand,surf",647796,490171,surfboard,surfboard
+"sneeze,ram,talk","arch,admire,fix",155826,491090,motorcycle,motorcycle
+"bite,curl,stumble","buy,ask,drive",155859,491090,motorcycle,motorcycle
+"stitch,push,dry","drive,race,repair",1790929,491090,motorcycle,motorcycle
+"peel,perspire,swoop","wipe,sit,admire",1792471,491090,motorcycle,motorcycle
+"stampede,decorate,misbehave","sell,race,sit",2047646,491090,motorcycle,motorcycle
+"twist,disembark,laugh","photograph,talk,walk",220590,491090,person,person
+"cling,educate,wring","ask,write,type",1117367,492905,keyboard,keyboard
+"unload,giggle,pour","slide,work,press",1628719,492905,mouse,mouse
+"educate,study,eject","ask,check,admire",32067,492905,tv,tv
+"balloon,cram,prick","tune,wave,run",172226,492937,train,train
+"spoil,emerge,rid","call,ask,bike",198827,492937,person,person
+"fetch,jump,interview","ask,sit,admire",2168379,492937,bicycle,bicycle
+"clear,dip,dust","turn,ask,type",1100951,497344,laptop,laptop
+"wring,knock,kneel","fill,pick,clean",1484151,497344,bottle,bottle
+"mourn,board,bet","call,ask,adjust",324057,497344,cell phone,cell_phone
+"exercise,type,ski","snuggle,talk,smile",516513,497344,person,person
+"pat,assemble,scoop","stand,sit,sleep",1813526,49810,bench,bench
+"spy,dry,fasten","pat,feed,admire",52987,49810,cat,cat
+"unload,fill,sneeze","arch,pick,pat",53064,49810,cat,cat
+"smear,carry,perspire","turn,wash,clean",1131499,500464,sink,sink
+"laugh,scoop,help","turn,pick,assemble",1675983,500464,hair drier,hair_drier
+"skip,coach,sting","ail,pick,clean",1997942,500464,toothbrush,toothbrush
+"peel,pout,pucker","write,rinse,clean",343009,500464,toothbrush,toothbrush
+"prick,splash,whip","empty,pick,squeeze",82291,500464,bottle,bottle
+"vacuum,parade,distract","drive,walk,run",1198913,501023,traffic light,traffic_light
+"stampede,dial,carry","spy,check,admire",2060524,501023,stop sign,stop_sign
+"whip,rake,mend","drive,walk,jog",270108,501023,stop sign,stop_sign
+"haul,steer,duck","call,photograph,admire",589371,501243,zebra,zebra
+"seal,grieve,wilt","photograph,feed,admire",590427,501243,zebra,zebra
+"dive,jog,sit","photograph,walk,admire",591924,501243,zebra,zebra
+"kneel,shelve,photograph","pour,rinse,throw",1491205,501368,bottle,bottle
+"yank,grill,record","attack,open,wash",1491666,501368,bottle,bottle
+"butt,work,launch","turn,adjust,clean",2197655,501368,hair drier,hair_drier
+"work,photograph,catch","ask,dry,scrub",447307,501368,person,person
+"fasten,prune,put","wipe,wash,rinse",1130658,501523,sink,sink
+"prick,mend,soak","pick,shake,adjust",1865077,501523,bottle,bottle
+"construct,mow,pray","whisk,shake,push",46767,501523,cat,cat
+"slap,frown,photograph","aim,drink,pour",668384,501523,cup,cup
+"wring,pee,arch","arrest,fill,knock",79571,501523,bottle,bottle
+"ail,stumble,adjust","pinch,water,eat",1559974,50331,broccoli,broccoli
+"photograph,flip,craft","pick,rinse,eat",1560842,50331,broccoli,broccoli
+"release,put,yank","ask,water,trim",1605565,50331,potted plant,potted_plant
+"check,fuel,paint","tip,water,salute",1608448,50331,potted plant,potted_plant
+"pay,hoe,pitch","spy,hang,hug",1243067,512836,person,person
+"buckle,boat,tattoo","talk,walk,brush",13802,512836,dog,dog
+"spy,arrest,sprint","strap,open,carry",1436145,512836,handbag,handbag
+"shake,hike,swim","pick,feed,admire",17235,512836,dog,dog
+"sell,detain,dye","open,assemble,carry",1835295,512836,handbag,handbag
+"gnaw,sit,imitate","call,talk,walk",214281,512836,person,person
+"swing,grin,chase","open,carry,lift",282465,512836,umbrella,umbrella
+"soak,unplug,rinse","call,ask,walk",1733508,518326,person,person
+"soak,celebrate,kick","decorate,run,clean",1956690,518326,bed,bed
+"lace,paint,queue","walk,sit,admire",318966,518326,bed,bed
+"till,encourage,shelve","walk,sit,sleep",319515,518326,bed,bed
+"unload,rub,restrain","ail,write,applaud",472775,518326,person,person
+"attack,forage,plummet","ask,sit,admire",106022,519764,chair,chair
+"pour,recover,ail","turn,work,study",2134493,519764,laptop,laptop
+"kiss,wag,dance","talk,stroke,smile",51771,519764,cat,cat
+"fix,examine,board","apprehend,bite,eat",1042596,521540,banana,banana
+"kiss,lace,grind","sit,eat,clean",1618797,521540,dining table,dining_table
+"exercise,flex,pot","wash,lick,clean",701815,521540,spoon,spoon
+"rest,frisk,twist","cry,walk,admire",2069765,526103,elephant,elephant
+"ski,mime,descend","ask,camp,film",283790,526103,umbrella,umbrella
+"taste,lean,garden","ail,wave,admire",582406,526103,elephant,elephant
+"shoot,shop,decorate","ask,bite,eat",1078884,526197,donut,donut
+"offer,swim,queue","spit,ignore,eat",1079133,526197,donut,donut
+"whip,mold,panhandle","buy,smell,eat",1572071,526197,donut,donut
+"spin,tap,cram","buy,admire,bite",1573292,526197,donut,donut
+"branch,soar,rehabilitate","unpack,throw,eat",2189220,526197,donut,donut
+"make,spin,call","buy,adjust,eat",2189292,526197,donut,donut
+"clench,imitate,spin","wait,wipe,lean",2227389,526197,dining table,dining_table
+"bet,ask,apprehend","attack,adjust,carry",1110518,532761,remote,remote
+"wheel,skid,buckle","ail,sit,admire",1586242,532761,chair,chair
+"sleep,pack,bother","ascend,water,dust",1607637,532761,potted plant,potted_plant
+"strike,barbecue,submerge","work,stroke,press",1629247,532761,mouse,mouse
+"brawl,wilt,seal","turn,walk,sit",33929,532761,tv,tv
+"shred,smile,shoot","sit,admire,clean",99358,532761,couch,couch
+"protest,hang,strap","talk,applaud,balloon",424665,533493,person,person
+"inflate,ascend,gasp","applaud,smile,laugh",444072,533493,person,person
+"say,tap,embrace","ignore,ask,smile",460886,533493,person,person
+"tackle,make,ail","sit,chase,throw",604214,533493,frisbee,frisbee
+"hoist,pedal,glare","ascend,open,read",1650976,540280,book,book
+"bathe,paste,unlock","pick,open,read",1986488,540280,book,book
+"crawl,dock,crouch","break,adjust,brush",284291,540280,umbrella,umbrella
+"tear,aim,punch","drive,wash,admire",135138,543043,car,car
+"flick,panhandle,whirl","ask,photograph,drive",176445,543043,boat,boat
+"hoist,pitch,frisk","drive,walk,wash",1775599,543043,car,car
+"blossom,talk,arrange","sit,eat,clean",268071,543043,bus,bus
+"scratch,fetch,yawn","ask,videotape,admire",1822824,545129,zebra,zebra
+"swing,launch,buckle","adjust,feed,admire",592831,545129,zebra,zebra
+"slide,ram,seal","ask,walk,brush",593943,545129,zebra,zebra
+"pucker,stuff,draw","open,carry,lift",1416194,54592,backpack,backpack
+"confront,write,sew","ski,admire,put",1450582,54592,skis,skis
+"wait,help,swarm","ski,talk,walk",434302,54592,person,person
+"wipe,run,sniff","call,communicate,admire",445492,54592,person,person
+"tear,bake,mow","crash,race,hike",613127,54592,skis,skis
+"drum,sew,apply","turn,ask,communicate",1102099,546717,laptop,laptop
+"videotape,waddle,poke","tap,attack,balloon",1107213,546717,mouse,mouse
+"grieve,massage,trim","drink,pour,clean",2098455,546717,cup,cup
+"sit,study,soar","bother,walk,carry",210611,546717,person,person
+"erase,cheer,flick","autograph,water,admire",291632,546717,potted plant,potted_plant
+"apprehend,row,shell","snuggle,adjust,sit",97783,546717,couch,couch
+"drool,attach,squint","arrest,call,arrange",15976,547502,dog,dog
+"embrace,empty,ski","train,walk,run",17832,547502,dog,dog
+"drool,frisk,parachute","pick,stroke,run",18297,547502,dog,dog
+"lift,sneeze,tap","pick,fling,throw",604085,547502,frisbee,frisbee
+"adjust,crush,say","talk,run,throw",8214,547502,dog,dog
+"build,strip,spill","walk,wash,load",1369608,550084,truck,truck
+"grind,put,eat","drive,operate,wash",2052213,550084,truck,truck
+"sprout,sign,staple","work,climb,operate",398584,550084,truck,truck
+"steer,salute,craft","wipe,attack,work",1157541,550322,scissors,scissors
+"retrieve,cheer,poke","pick,work,put",1157722,550322,scissors,scissors
+"arrest,arch,hit","empty,arrange,clean",1504353,550322,cup,cup
+"shave,sweep,curtsy","stir,cook,wash",1527763,550322,spoon,spoon
+"suck,fetch,sign","adjust,assemble,clean",1965535,550322,dining table,dining_table
+"photograph,recuperate,crest","stir,ask,cook",2185071,550322,spoon,spoon
+"handcuff,admire,whirl","yawn,strip,sleep",318264,551815,bed,bed
+"instruct,confront,dissect","rub,nuzzle,admire",49017,551815,cat,cat
+"sneeze,spread,bake","caress,snuggle,stroke",49171,551815,cat,cat
+"camouflage,strip,hang","cheer,admire,throw",1706760,554328,person,person
+"plow,work,stretch","run,catch,throw",304526,554328,sports ball,sports_ball
+"cheerlead,practice,peel","cheer,write,applaud",484807,554328,person,person
+"crouch,perform,arrange","wave,walk,admire",503207,554328,person,person
+"emerge,wet,lock","wipe,catch,put",633522,554328,baseball glove,baseball_glove
+"say,dance,extinguish","dust,catch,carry",635374,554328,baseball glove,baseball_glove
+"subdue,count,laugh","drink,shake,pour",1867939,554838,bottle,bottle
+"disembark,construct,throw","drink,arrange,pour",2213395,554838,bottle,bottle
+"taste,crest,gather","wipe,open,clean",332167,554838,refrigerator,refrigerator
+"cheerlead,wipe,discuss","ask,aim,apply",1108433,559543,remote,remote
+"uncork,decorate,shovel","sit,sleep,rest",114513,559543,couch,couch
+"slouch,plow,peel","guard,stretch,sit",1580399,559543,chair,chair
+"spoil,weep,parade","ask,adjust,admire",1670040,559543,vase,vase
+"drink,swarm,shop","arrest,talk,hug",217787,559543,person,person
+"dip,water,mash","ask,photograph,balloon",1226213,559547,person,person
+"lift,pee,clench","put,repair,throw",1470456,559547,baseball glove,baseball_glove
+"whistle,pay,celebrate","catch,admire,throw",304701,559547,sports ball,sports_ball
+"sleep,ignore,baptize","cheer,arrest,chase",477978,559547,person,person
+"attach,pull,insert","shush,read,admire",558342,559547,person,person
+"tip,walk,fish","pick,swing,lift",630703,559547,baseball bat,baseball_bat
+"dock,grimace,bathe","bite,throw,eat",1057749,559707,broccoli,broccoli
+"hit,carve,urinate","pick,wash,eat",1057814,559707,broccoli,broccoli
+"pour,eject,destroy","throw,eat,clean",1058088,559707,broccoli,broccoli
+"swing,sting,bother","chew,throw,eat",1059509,559707,broccoli,broccoli
+"crash,sprint,mine","bite,carry,eat",685829,559707,fork,fork
+"bake,gather,wheel","turn,buy,put",1188281,569976,hair drier,hair_drier
+"reassure,spread,wring","weigh,apply,wash",1239516,569976,person,person
+"farm,flip,complain","lean,stand,sit",1580748,569976,chair,chair
+"rake,pounce,trip","ask,aim,sit",1582191,569976,chair,chair
+"clip,buckle,officiate","wrinkle,adjust,sit",2123111,569976,chair,chair
+"pout,paw,sniff","call,talk,communicate",433720,569976,person,person
+"bother,pack,complain","ask,talk,laugh",437179,569976,person,person
+"parade,recuperate,submerge","sit,rest,pull",101423,57238,chair,chair
+"weigh,tackle,blossom","attach,sit,pull",107320,57238,chair,chair
+"bow,gnaw,sweep","clear,work,adjust",118911,57238,dining table,dining_table
+"peel,weigh,flip","arrest,open,clean",332209,57238,refrigerator,refrigerator
+"carry,boat,curl","unpack,bake,unload",2175752,579307,backpack,backpack
+"attach,craft,dry","ascend,help,wave",451044,579307,person,person
+"whirl,march,pounce","ask,talk,applaud",500864,579307,person,person
+"drive,peel,intermingle","fold,chase,assemble",621866,579307,kite,kite
+"phone,butter,stoop","ask,walk,run",624891,579307,kite,kite
+"braid,paint,whirl","board,walk,admire",173392,58384,train,train
+"frisk,break,smash","feed,admire,clean",582150,58384,elephant,elephant
+"lather,train,socialize","walk,feed,admire",583936,58384,elephant,elephant
+"exterminate,browse,shiver","call,walk,admire",584606,58384,elephant,elephant
+"frown,trip,float","pick,arrange,bite",1047621,60855,apple,apple
+"unpack,spill,rake","peel,slice,squeeze",1051686,60855,orange,orange
+"cling,bow,train","peel,wash,bite",1053129,60855,orange,orange
+"nag,read,dial","peel,slice,eat",1053180,60855,orange,orange
+"drip,soar,tickle","peel,rinse,eat",1053846,60855,orange,orange
+"giggle,give,film","wash,brush,eat",1548656,60855,apple,apple
+"slide,shush,lecture","peel,throw,eat",1556339,60855,orange,orange
+"descend,lift,milk","complain,drive,walk",1385164,61268,traffic light,traffic_light
+"nuzzle,uncork,steer","break,walk,clean",1386651,61268,traffic light,traffic_light
+"chew,rehabilitate,taxi","wait,frown,drive",1386917,61268,traffic light,traffic_light
+"skip,throw,sneeze","apprehend,arch,catch",172716,61268,train,train
+"barbecue,scold,sniff","fish,open,carry",1834720,61268,handbag,handbag
+"vacuum,lap,videotape","walk,run,balloon",205534,61268,person,person
+"swarm,bathe,spread","wait,peel,sit",2058521,61268,traffic light,traffic_light
+"bulldoze,mow,arch","strike,aim,run",304102,65736,sports ball,sports_ball
+"work,buy,decorate","serve,talk,compete",428508,65736,person,person
+"light,eat,fuel","arch,aim,practice",656566,65736,tennis racket,tennis_racket
+"call,fish,board","arch,applaud,clean",1128597,66841,toaster,toaster
+"salute,suck,restrain","open,pour,eat",1870847,66841,bottle,bottle
+"duck,speak,strip","wipe,wash,clean",1894884,66841,spoon,spoon
+"dye,star,whisk","stir,adjust,eat",704211,66841,spoon,spoon
+"hurl,grill,vault","display,check,eat",708199,66841,spoon,spoon
+"complain,encourage,ask","stir,bake,clean",708912,66841,spoon,spoon
+"grimace,fry,complain","arrest,pick,scoop",709000,66841,spoon,spoon
+"mop,attack,swoop","ask,drive,sit",137446,68093,car,car
+"phone,waddle,kiss","stand,sit,wash",153661,68093,motorcycle,motorcycle
+"pucker,burn,ignore","drive,arrange,sit",153858,68093,motorcycle,motorcycle
+"drum,bake,gather","drive,talk,hang",215913,68093,person,person
+"rot,frown,peel","dance,jog,adjust",218394,68093,person,person
+"moisturize,attack,help","distract,admire,throw",1728634,68387,person,person
+"weigh,queue,kneel","wipe,adjust,catch",1858539,68387,baseball glove,baseball_glove
+"hitchhike,strap,spear","applaud,wave,admire",500413,68387,person,person
+"drive,march,crush","call,applaud,admire",501912,68387,person,person
+"reassure,boat,whistle","call,ask,walk",520057,68387,person,person
+"autograph,twirl,haul","ask,swing,adjust",627361,68387,baseball bat,baseball_bat
+"drench,attach,microwave","swoop,stand,catch",634662,68387,baseball glove,baseball_glove
+"apply,shell,turn","ask,pat,admire",592039,70158,zebra,zebra
+"swoop,bury,wad","communicate,walk,feed",592091,70158,zebra,zebra
+"suck,fuel,chase","walk,pat,admire",592347,70158,zebra,zebra
+"shovel,till,slap","turn,plow,read",1138892,71226,book,book
+"fuel,sting,sprinkle","pick,open,read",1147615,71226,book,book
+"fetch,spear,lather","smile,pat,feed",15080,71226,dog,dog
+"carve,fry,wag","adjust,sleep,clean",1956584,71226,bed,bed
+"strip,wilt,shear","pat,feed,brush",273554,71226,cat,cat
+"hike,till,videotape","bathe,call,ask",3482,71226,dog,dog
+"parade,erase,strap","cook,eat,clean",1518875,75393,fork,fork
+"ram,protest,erupt","photograph,admire,eat",1520372,75393,fork,fork
+"rub,dry,hitchhike","ask,admire,clean",1520494,75393,fork,fork
+"crawl,spin,clench","ask,admire,eat",1520571,75393,fork,fork
+"dive,put,extinguish","aim,smile,nuzzle",1159354,776,teddy bear,teddy_bear
+"intermingle,beg,tip","pick,adjust,hug",1161486,776,teddy bear,teddy_bear
+"type,unveil,kneel","arrest,snuggle,pick",1161607,776,teddy bear,teddy_bear
+"wad,sell,drop","curl,stretch,unload",1611634,776,bed,bed
+"pitch,sprinkle,lead","ask,walk,sit",1730251,78404,person,person
+"pry,smash,pump","pick,pee,rest",1834788,78404,handbag,handbag
+"pull,wax,sprinkle","ask,admire,carry",1835149,78404,handbag,handbag
+"arrange,fish,burn","tackle,talk,spray",425247,78404,person,person
+"dial,spin,bounce","ask,attack,snuggle",555025,78404,person,person
+"row,extinguish,cry","stand,walk,sit",573455,78404,bench,bench
+"cover,skip,vault","whistle,call,walk",217097,79229,person,person
+"draw,bubble,parade","call,tickle,feed",4941,79229,dog,dog
+"cough,fuel,bow","wrap,applaud,yawn",56077,79229,horse,horse
+"heave,land,taste","ski,fall,balloon",1452391,80153,skis,skis
+"empty,yank,dissect","applaud,hang,admire",195510,80153,person,person
+"clap,exterminate,unload","talk,pat,brush",8177,80153,dog,dog
+"bubble,flame,ski","serve,slice,eat",1083877,81738,cake,cake
+"circle,milk,squeeze","bake,admire,eat",184545,81738,person,person
+"write,confront,smile","wipe,eat,clean",1963570,81738,dining table,dining_table
+"turn,microwave,skip","chop,wipe,clean",693161,81738,knife,knife
+"board,sketch,tackle","wipe,drink,pour",89049,81738,bottle,bottle
+"push,curtsy,arrange","pick,walk,hug",1161515,82180,teddy bear,teddy_bear
+"arrange,plow,erupt","pick,hang,adjust",1673320,82180,teddy bear,teddy_bear
+"open,lap,mop","stand,sit,rinse",373879,82180,chair,chair
+"plunge,wax,photograph","arrest,aim,adjust",1388498,82846,stop sign,stop_sign
+"sneeze,celebrate,strap","call,jump,admire",167589,82846,bus,bus
+"protest,rain,unload","drive,walk,jog",269838,82846,stop sign,stop_sign
+"lift,repair,fry","pick,kick,throw",1462197,85772,sports ball,sports_ball
+"rid,trip,rain","swing,hit,throw",306407,85772,sports ball,sports_ball
+"clear,tap,teach","cheer,clap,applaud",429906,85772,person,person
+"fall,talk,confront","swing,hit,throw",659222,85772,tennis racket,tennis_racket
+"retrieve,lick,clear","ask,pick,push",1106733,9483,mouse,mouse
+"milk,mold,glue","type,sit,clean",1115956,9483,keyboard,keyboard
+"flip,drop,rub","work,adjust,attach",2134249,9483,tv,tv
+"open,cling,make","arrange,check,assemble",2134257,9483,tv,tv
+"spank,sell,provide","ask,talk,applaud",219454,9483,person,person
+"apprehend,land,subdue","wipe,cart,clean",31409,9483,tv,tv
+"yank,baptize,sign","pick,paint,admire",1151954,95786,vase,vase
+"buckle,grind,sting","arrange,destroy,throw",1994414,95786,vase,vase
+"spill,erupt,tip","break,drink,admire",671185,95786,cup,cup
+"swarm,serve,intermingle","stir,break,throw",676406,95786,cup,cup
+"drum,spear,submerge","flip,pick,read",1137334,96001,book,book
+"rock,spoil,signal","admire,rinse,clean",2185636,96001,bowl,bowl
+"hitchhike,hunch,lift","arrange,carry,clean",280449,96001,umbrella,umbrella
+"arrest,check,waddle","cook,open,adjust",1120140,97022,microwave,microwave
+"arrange,hitchhike,clip","ask,cook,clean",1128510,97022,toaster,toaster
+"fold,drench,give","wipe,wash,clean",1134299,97022,sink,sink
+"wag,pay,vault","tune,cook,arrange",1626017,97022,tv,tv
+"dry,nip,storm","wipe,bake,clean",1641519,97022,oven,oven
+"mold,crawl,burn","bake,cook,clean",2139402,97022,oven,oven

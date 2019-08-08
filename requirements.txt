@@ -1,0 +1,11 @@
+numpy
+tqdm
+mypy
+black
+pandas
+scikit-learn
+seaborn
+matplotlib
+pytorch-transformers
+tensorboardX
+tb-nightly

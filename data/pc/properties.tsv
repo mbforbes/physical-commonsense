@@ -1,0 +1,51 @@
+uid	mcrae	word-embedding	wording_intrinsic	wording_extrinsic	pc	sentence	ctx	categorization
+a_tool	a_tool	tool	be	be	a tool	is a tool	tool	functional
+a_toy	a_toy	toy	be	be	a toy	is a toy	toy	functional
+an_animal	an_animal	animal	be	be	an animal	is an animal	animal	encyclopedic
+flies	beh_-_flies	fly	can	can	fly	can fly	fly	encyclopedic
+swims	beh_-_swims	swim	can	can	swim	can swim	swim	encyclopedic
+pairs	comes_in_pairs	pair	does	does	come in pairs	comes in pairs	pairs	commonsense
+eaten_in_summer	eaten_in_summer	summer	be	be	eaten in summer	is eaten in summer	summer	commonsense
+found_on_walls	found_on_walls	wall	be	be	found on walls	is found on walls	walls	commonsense
+has_peel	has_peel	peel	has	has	a peel	has a peel	peel	encyclopedic
+has_shelves	has_shelves	shelves	has	has	shelves	has shelves	shelves	commonsense
+produces_noise	inbeh_-_produces_noise	noise	does	does	produce sound	produces sound	sound	perceptual
+cold	is_cold	cold	state	state	cold	is cold	cold	commonsense
+dangerous	is_dangerous	dangerous	be	be	dangerous	is dangerous	dangerous	commonsense
+decorative	is_decorative	decorative	be	be	decorative	is decorative	decorative	commonsense
+edible	is_edible	edible	be	be	edible	is edible	edible	functional
+electrical	is_electrical	electricity	does	does	require electricity	requires electricity	electricity	encyclopedic
+expensive	is_expensive	expensive	be	be	expensive	is expensive	expensive	commonsense
+fast	is_fast	fast	be	be	fast	is fast	fast	commonsense
+fun	is_fun	fun	be	be	fun	is fun	fun	commonsense
+hand_held	is_hand_held	held	be	be	hand-held	is hand-held	hand-held	commonsense
+hard	is_hard	hard	be	probably	hard	is hard	hard	perceptual
+heavy	is_heavy	heavy	be	probably	heavy	is heavy	heavy	perceptual
+large	is_large	large	be	be	big	is big	big	perceptual
+loud	is_loud	loud	be	probably	loud	is loud	loud	perceptual
+sharp	is_sharp	sharp	be	probably	sharp	is sharp	sharp	commonsense
+shiny	is_shiny	shiny	be	be	shiny	is shiny	shiny	perceptual
+slimy	is_slimy	slimy	be	probably	slimy	is slimy	slimy	perceptual
+smelly	is_smelly	smelly	be	probably	smelly	is smelly	smelly	perceptual
+smooth	is_smooth	smooth	be	probably	smooth	is smooth	smooth	perceptual
+tall	is_tall	tall	be	be	tall	is tall	tall	perceptual
+lives_in_water	lives_in_water	water	does	does	live in water	lives in water	water	encyclopedic
+requires_gasoline	requires_gasoline	gasoline	does	does	require gasoline	requires gasoline	gasoline	encyclopedic
+used_for_eating	used_for_eating	eat	be	be	used as a tool for eating	is used for eating	eating	functional
+used_for_cooking	used_for_cooking	cook	be	be	used as a tool for cooking	is used for cooking	cooking	functional
+used_for_cleaning	used_for_cleaning	clean	be	be	used as a tool for cleaning	is used for cleaning	cleaning	functional
+used_by_children	used_by_children	children	be	be	used by children	is used by children	children	functional
+used_for_holding_things	used_for_holding_things	hold	be	be	used for holding things	is used for holding things	holding	functional
+used_for_killing	used_for_killing	kill	be	be	used for killing	is used for killing	killing	functional
+used_for_music	used_for_music	music	be	be	used for music	is used for music	music	functional
+used_for_transportation	used_for_transportation	transportation	be	be	used for transportation	is used for transportation	transportation	functional
+worn_for_warmth	worn_for_warmth	warmth	be	be	worn for warmth	is worn for warmth	warmth	functional
+worn_on_feet	worn_on_feet	feet	be	be	worn on feet	is worn on feet	feet	functional
+hot	n/a	hot	state	state	hot	is hot	hot	commonsense
+light_weight	n/a	light	be	probably	light (in weight)	is light	light	perceptual
+squishy	n/a	squishy	be	probably	squishy	squishy	squishy	perceptual
+unhealthy	n/a	unhealthy	be	be	edible <strong>and</strong> unhealthy to eat	is unhealthy	unhealthy	commonsense
+wet	n/a	wet	state	state	wet	is wet	wet	commonsense
+words_on_it	n/a	words	has	has	words on it	has words on it	words	commonsense
+man_made	n/a	made	be	be	man-made	is man-made	man-made	encyclopedic
+fragile	n/a	fragile	be	probably	fragile	is fragile	fragile	commonsense

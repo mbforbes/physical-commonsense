@@ -1,0 +1,16 @@
+elephant
+sheep
+hair_drier
+bottle
+chair
+dining_table
+hot_dog
+airplane
+truck
+broccoli
+skateboard
+horse
+keyboard
+tennis_racket
+bowl
+zebra
