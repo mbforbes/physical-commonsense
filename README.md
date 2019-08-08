@@ -1,5 +1,6 @@
 # physical-commonsense
 
+[![Build Status](https://travis-ci.org/mbforbes/physical-commonsense.svg?branch=master)](https://travis-ci.org/mbforbes/physical-commonsense)
 [![license MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mbforbes/physical-commonsense/blob/master/LICENSE.txt)
 
 This is the code, data, and website repository accompanying the paper:
