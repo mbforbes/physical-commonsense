@@ -5,7 +5,7 @@
 
 This is the code, data, and website repository accompanying the paper:
 
-**Do Neural Language Representations Learn Physical Commonsense?** <br />
+**[Do Neural Language Representations Learn Physical Commonsense?](https://arxiv.org/abs/1908.02899)** <br />
 [Maxwell Forbes](http://maxwellforbes.com/), [Ari Holtzman](https://ari-holtzman.github.io/), [Yejin Choi](https://homes.cs.washington.edu/~yejin/) <br />
 CogSci 2019
 
