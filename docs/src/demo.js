@@ -1,6 +1,7 @@
 function parseFile(name) {
     return new Promise(function (complete, error) {
         Papa.parse(name, {
+            delimiter: ',',
             download: true,
             header: true,
             complete: complete,
@@ -62,10 +63,24 @@ function getAnns(obj, blacklist, lim = 3) {
     return found;
 }
 
+function getAffs(vps, want_lim = 3) {
+    // we want to return lim unique items, sampled at the frequency they appear in vps.
+    // however, we set a lower limit if there are fewer than lim unique items in the
+    // list itself.
+    let lim = Math.min(_.uniq(vps).length, want_lim);
+    let picked = [];
+    while (picked.length < lim) {
+        picked.push(_.sample(vps));
+        picked = _.uniq(picked);
+    }
+    return picked;
+}
+
 async function parseData() {
     let coco = await $.getJSON('data/coco.json');
     let situatedProps = await parseFile('data/situated-properties.csv');
-    let situatedAffs = await parseFile('data/situated-affordances.csv');
+    // let situatedAffs = await parseFile('data/situated-affordances.csv');
+    let situatedAffs = await parseFile('data/situated-affordances-full.csv');
 
     let prop_idx = Math.floor(Math.random() * situatedProps.data.length);
     let prop = situatedProps.data[prop_idx];
@@ -85,14 +100,27 @@ async function parseData() {
 
     let foundProps = getAnns(prop, ['cocoImgID', 'cocoAnnID', 'objectUID']);
 
+    let buf = '';
     if (foundProps.length > 0) {
-        let buf = '<br />How would you describe the <span class="pa1" style="color: white; background-color: #f6416c;">' + aff.objectHuman + '</span> ?<ul>\n';
+        buf += '<br />How would you describe the <span class="pa1" style="color: white; background-color: #f6416c;">' + aff.objectHuman + '</span> ?<ul class="examples">\n';
         for (let f of foundProps) {
             buf += '<li><span class="code">' + f + '</span> ?</li>\n';
         }
         buf += '</ul>'
-        document.getElementById('propContent').innerHTML = buf
     }
+
+    if (aff.vps.length > 0) {
+        buf += '<br />What might you do to the <span class="pa1" style="color: white; background-color: #f6416c;">' + aff.objectHuman + '</span> ?<ul class="examples">\n';
+        let all_vps = aff.vps.split(';')
+        let vps = getAffs(all_vps);
+        let obj_ref = aff.objectHuman == 'person' ? 'them' : 'it';
+        for (let vp of vps) {
+            buf += '<li>' + vp + ' ' + obj_ref + '?</li>\n';
+        }
+        buf += '</ul>'
+    }
+
+    document.getElementById('propContent').innerHTML = buf
 }
 
 // main
